@@ -1,0 +1,7 @@
+{
+"file_scan_exclusions":[
+  "RAW-brain-storm-draft",
+  ".git",
+  "README.md"
+]
+}

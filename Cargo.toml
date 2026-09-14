@@ -1,0 +1,9 @@
+[workspace]
+resolver = "3"
+members = ["sdave"]
+
+[workspace.package]
+edition = "2024"
+license = "MIT"
+
+[workspace.dependencies]
